@@ -147,7 +147,7 @@ h5
 }
 .nav-social-media img
 {
-    width: 24px;
+    width: auto;
     height: 24px;
     border-radius: 0;
 }
@@ -216,7 +216,7 @@ h5
 }
 .menu-mobile-social-media img
 {
-    width: 40px;
+    width: auto;
     height: 40px;
 }
 
@@ -904,11 +904,11 @@ h5
 }
 .footer-social-media li:nth-child(2) span
 {
-    background-image: url("../assets/GitHub-Mark-Light-120px-plus.png");
+    background-image: url("../assets/Twitter_Social_Icon_Circle_White_logo.png");
 }
 .footer-social-media li:nth-child(3) span
 {
-    background-image: url("../assets/LI-In-Bug.png");
+    background-image: url("../assets/f_logo_RGB-White.png");
 }
 
 @media only screen and (max-width: 860px)
